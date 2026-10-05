@@ -91,17 +91,19 @@ Program berjalan secara lurus (sekuensial):
 5. Akhirnya, program mencetak ulang *state* isi memori pameran (`Showroom`) untuk membuktikan masuknya objek-objek tersebut ke dalam database statis program (kondisi sesudah ditambahkan). 
 
 ## 6. Dokumentasi
-- **C++**:
+- **C++**:<br>
 <img width="727" height="887" alt="cpp1" src="https://github.com/user-attachments/assets/f4464e5b-209b-431b-a8a8-26921aee5410" /><br>
 <img width="490" height="891" alt="cpp2" src="https://github.com/user-attachments/assets/29944cb3-15f6-48dc-b135-bea295087bc0" /><br>
 <img width="452" height="582" alt="cpp3" src="https://github.com/user-attachments/assets/cb172d74-8dd9-4310-bb8c-f37f96aa031b" /><br>
 
-- **Python**:
-<img width="445" height="847" alt="py2" src="https://github.com/user-attachments/assets/8830ae44-d74a-459e-8c83-371e8484369f" /><br>
-<img width="1085" height="900" alt="py1" src="https://github.com/user-attachments/assets/fb86c06d-d4eb-4236-b39e-7706fe2a7237" /><br>
-<img width="382" height="410" alt="py3" src="https://github.com/user-attachments/assets/e03fb4ab-a475-4b73-9092-5ba2a55f3d99" /><br>
+- **Python**:<br>
+<img width="1085" height="900" alt="py1" src="https://github.com/user-attachments/assets/4187cb16-6fe6-4776-8e18-6b5d8b113552" /><br>
+<img width="445" height="847" alt="py2" src="https://github.com/user-attachments/assets/1154d64c-10fb-43a6-bcce-351d80ea935c" /><br>
+<img width="382" height="410" alt="py3" src="https://github.com/user-attachments/assets/35536164-a370-406d-b8e8-556f21432e8d" /><br>
 
-- **Java**: 
-<img width="772" height="908" alt="java2" src="https://github.com/user-attachments/assets/79ba63b0-b1c1-4a4f-a747-24eef2644fe3" /><br>
-<img width="740" height="896" alt="java1" src="https://github.com/user-attachments/assets/9cbad10c-fed3-441f-8812-5c650d43edca" /><br>
-<img width="521" height="367" alt="java3" src="https://github.com/user-attachments/assets/469f0ffa-d689-4426-8a6f-7832207c67f5" /><br>
+- **Java**:<br>
+<img width="740" height="896" alt="java1" src="https://github.com/user-attachments/assets/ec95a1a7-2f73-4441-8cf6-a7b094286ee3" /><br>
+<img width="772" height="908" alt="java2" src="https://github.com/user-attachments/assets/d490acd8-82bf-4ce8-8b08-cd2cbf53ecf9" /><br>
+<img width="521" height="367" alt="java3" src="https://github.com/user-attachments/assets/81f56c9c-f103-452d-b36e-ce38e767c00a" /><br>
+
+
