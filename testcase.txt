@@ -1,0 +1,29 @@
+--- DATA TESTCASE 1: MOBIL BENSIN (PENAMBAHAN) ---
+Merk                   : Honda
+Model                  : Civic Type R
+Tahun Produksi         : 2024
+Kapasitas Mesin (cc)   : 1996
+Kapasitas Tangki (L)   : 47.0
+Jenis Bahan Bakar      : Pertamax Turbo (RON 98)
+
+--- DATA TESTCASE 2: MOBIL LISTRIK (PENAMBAHAN) ---
+Merk                   : Wuling
+Model                  : Binguo EV Premium Range
+Tahun Produksi         : 2024
+Kapasitas Baterai (kWh): 37.9
+Tipe Soket Charger     : AC/DC GB/T
+Daya Motor Listrik (kW): 50
+
+--- DATA TESTCASE 3: MOBIL HYBRID (PENAMBAHAN) ---
+Merk                   : Honda
+Model                  : CR-V e:HEV RS
+Tahun Produksi         : 2024
+Kapasitas Mesin (cc)   : 1993
+Kapasitas Tangki (L)   : 57.0
+Jenis Bahan Bakar      : Pertamax (RON 92)
+Kapasitas Baterai (kWh): 1.05
+Tipe Soket Charger     : Self-Charging (No Socket)
+Daya Motor Listrik (kW): 135
+Mode Berkendara        : Intelligent Multi-Mode Drive (i-MMD)
+Daya Gabungan (HP)     : 204
+Harga (Rp)             : 815000000
