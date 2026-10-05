@@ -6,7 +6,7 @@ Saya Afzaal Zaidan Febryanto dengan NIM 2508692 mengerjakan Tugas Praktikum 3 da
 ## 2. Desain Diagram Program
 Program ini didesain sesuai dengan diagram referensi yang diberikan. Secara garis besar, terdapat rancangan *Hybrid Inheritance* serta penerapan *Composition* dan *Aggregation*.
 
-<img width="2551" height="3301" alt="Diagram" src="https://github.com/user-attachments/assets/1a507ada-398b-4e29-a26c-d66ece89063d" />
+<img width="2550" height="3300" alt="Diagram" src="https://github.com/user-attachments/assets/8bafe52c-9e83-41d3-9d17-41c61eef4440" />
 
 
 ## 3. Penjelasan Atribut dan Methods Setiap Kelas
